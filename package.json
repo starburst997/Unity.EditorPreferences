@@ -1,0 +1,17 @@
+{
+  "name": "jd.boiv.in.preferences",
+  "version": "1.0.0",
+  "displayName": "Editor Preferences",
+  "description": "Sync some settings in preferences across projects in Unity",
+  "dependencies": {
+    
+ },
+ "keywords": [
+    "preferences", "editor", "tint"
+  ],
+  "author": {
+    "name": "Jean-Denis Boivin",
+    "email": "jd@boiv.in",
+    "url": "https://jd.boiv.in"
+  }
+}
